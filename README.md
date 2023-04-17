@@ -1,7 +1,7 @@
 ## Hello! I`m João Haubert
 
 - 👀 I’m interested in front end developing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking for a chance to learn and colaborate
 - 📫 How you can reach me: 
 - <a href="https://www.linkedin.com/in/jo%C3%A3o-haubert-467058192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
