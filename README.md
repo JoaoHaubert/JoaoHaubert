@@ -1,6 +1,6 @@
 ## Hello! I`m João Haubert
 
-- 👀 I’m interested in front end developing
+- 👀 I’m interested in front end and back end developing
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking for a chance to learn and colaborate
 - 📫 How you can reach me: 
